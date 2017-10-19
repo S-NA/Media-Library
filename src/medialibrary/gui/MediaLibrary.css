@@ -1,0 +1,26 @@
+/* 
+    Created on : Sep 23, 2017, 1:28:08 PM
+    Author     : sna
+*/
+
+.grid {
+    -fx-padding: 16 16 16 16;
+    -fx-hgap: 16;
+    -fx-vgap: 16;    
+}
+
+.vbox-buttons {
+    -fx-spacing: 16;
+}
+
+.vbox-sort {
+    -fx-spacing: 8;
+}
+
+.nested-grid {
+    -fx-border-color: black;
+    -fx-border-radius: 8 8 8 8;
+    -fx-padding: 8;
+    -fx-hgap: 8 ;
+    -fx-vgap: 8;
+}
